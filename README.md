@@ -1,2 +1,0 @@
-# HelloGridView
-GridView interaction Android
